@@ -1,0 +1,85 @@
+*{
+ margin: 0%;   
+}
+body{
+    background-color: white;
+}
+h1 {
+    color: black ;
+    background-color: #E74C3C;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Gideon Roman', cursive;
+
+}
+#container{
+    margin: 50px;
+}
+.col-sm-12{
+    text-align: center;
+    margin: auto;
+    padding-top: 50px;
+}
+.producto-carrito{
+    background-color: white;
+    margin: auto;
+    padding-top: 50px;
+    display: flex;
+    justify-content:center ;}
+.total{
+    justify-content: center;
+    display: flex;
+    color: white;
+    background-color: black;
+    text-align: center;
+    width: 950px;
+    margin: auto;
+    font-family: 'Gideon Roman', cursive;
+    font-size: 25px;
+}
+.card{
+    border-radius: 30px;
+}
+.product-details{
+    color: black;
+    margin: 10px;
+    font-size: 25px;
+    font-family: 'Gideon Roman', cursive;
+
+}
+img.car-img{
+    width: 200px;
+}
+.departamentos{
+    margin: auto;
+    width: 1200px;
+    border: 1px solid grey;
+}
+h5{
+    color: grey;
+    font-size: 25px;
+    font-family: 'Gideon Roman', cursive;
+
+}
+.envio{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+#finalizar{
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;    
+}
+.totalCompra{
+    text-align: center;    
+    font-size: 25px;
+    font-family: 'Gideon Roman', cursive;
+    font-weight: bold;
+}
+.contact__secction-container{
+    text-align: center;    
+}
+h2{
+    text-align: center;
+}

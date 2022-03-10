@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nombre": "un ambiente",
+        "precio": 950,
+        "imagen": "./edificio.jpg "
+      },
+      {
+        "id": 2,
+        "nombre": "dos ambientes",
+        "precio": 1000,
+        "imagen": "./edificio.jpg "
+      },
+      {
+        "id": 3,
+        "nombre": "tres ambientes",
+        "precio": 1500,
+        "imagen": "./edificio.jpg "
+      }
+]
